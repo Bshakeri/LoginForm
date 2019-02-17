@@ -193,8 +193,7 @@ namespace MyApplication
         }
 
 
-        
-
+  
         private void registerButton_Click(object sender, System.EventArgs e)
         {
             Models.DatabaseContext databaseContext = null;
